@@ -23,10 +23,10 @@ In the initail phase of data preperation, file were downloaded and performed the
  **Employee Analysis**
 ![Screenshot employeeanalysis](https://github.com/user-attachments/assets/9d14ecac-c244-44cb-8a1f-1823a936f8d7)  
 
-**Department Employee ** 
+**Department Employee** 
 ![Screenshot Departmentemployee](https://github.com/user-attachments/assets/d6e8c679-5df1-41b7-b8b7-ce7c255f4ed3)  
 
-**Employee Satisfaction **
+**Employee Satisfaction**
 ![Screenshot employeesatisfaction](https://github.com/user-attachments/assets/eb73ae85-6261-4ff0-ab10-bc334fc6074f)
 
 ### Exploratory Data Analysis (EDA)  
