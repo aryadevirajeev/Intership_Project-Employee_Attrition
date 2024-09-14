@@ -16,6 +16,19 @@ Attrition data is provided in .csv format with employee details.
 In the initail phase of data preperation, file were downloaded and performed the following tasks:  
  1.Checked for missing values  
  2.Checked for duplicate values  
+ 
+**Employee Attrition Rate** 
+![Screenshot Attritionrate](https://github.com/user-attachments/assets/9fb8c2d5-1a63-41d6-87c4-56c2a6880c5d)  
+
+ **Employee Analysis**
+![Screenshot employeeanalysis](https://github.com/user-attachments/assets/9d14ecac-c244-44cb-8a1f-1823a936f8d7)  
+
+**Department Employee ** 
+![Screenshot Departmentemployee](https://github.com/user-attachments/assets/d6e8c679-5df1-41b7-b8b7-ce7c255f4ed3)  
+
+**Employee Satisfaction **
+![Screenshot employeesatisfaction](https://github.com/user-attachments/assets/eb73ae85-6261-4ff0-ab10-bc334fc6074f)
+
 ### Exploratory Data Analysis (EDA)  
 EDA involved exploring on the data sets to relate the variables for key matrices which stakeholders wants to take into account. Caluculated all key matrices:  
  - Total employees
